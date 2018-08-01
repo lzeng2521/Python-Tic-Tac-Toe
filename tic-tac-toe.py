@@ -1,7 +1,7 @@
 '''
 Leta Zeng
 CS8 Homework 2
-This code allowps a user and the computer to play a game of tic-tac-toe
+This code allows a user and the computer to play a game of tic-tac-toe
 This code also includes extra credit: the user can keep playing games until
 they decide to exit and it keeps track of wins by the computer and user
 '''
